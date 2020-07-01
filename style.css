@@ -39,7 +39,7 @@ nav ul li{
 }
 h1 {
   font-size: 60pt;
-  font-family: 'acme', sans-serof'
+  font-family: 'acme', sans-serif'
 }
 #home {
   margin-top: 50px; 
@@ -48,12 +48,12 @@ h1 {
   width: 100vw;
   height: 30vh;
   padding-top: 3em;
-  background: url('https://images.pexels.com/photos/1131458/pexels-photo-1131458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') center 75% no-repeat fixed;
+  background: url('https://images.unsplash.com/photo-1584238944561-6a12da936b29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80') center 75% no-repeat fixed;
   background-size: cover;
 }
 .header-tag {
   text-align: center;
-  color: #f078cc;
+  color: lightseagreen;
   text-shadow: 2px 2px 2px black;
 }
 h3.header-tag {
@@ -76,8 +76,8 @@ h2 {
   float: left;
 }
 #profile-pic {
-  height: 350px;
-  width: 225px;
+  height: 300px;
+  width: 300px;
   object-fit: cover;
   border-radius: 0.4em;
   box-shadow: 2px 2px 2px black;
@@ -85,4 +85,7 @@ h2 {
 #about-content {
   width: 40vw;
   float: right;
+}
+#video {
+  margin-top: 50px;
 }
